@@ -1,0 +1,19 @@
+{
+  "name": "wavesample-view",
+  "version": "0.0.1",
+  "description": "wavesample-viewer",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studiolife/wavesample-view-js.git"
+  },
+  "author": "concept10",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/studiolife/wavesample-view-js/issues"
+  },
+  "homepage": "https://github.com/studiolife/wavesample-view-js#readme"
+}
