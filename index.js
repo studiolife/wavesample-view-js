@@ -1,8 +1,4 @@
+var log = require('loglevel');
+log.warn("Logging initialized");
 
 
-
-var options = { 
-  container: document.getElementByID('peaks-container'),
-
-  containers: {},
-};
